@@ -2,7 +2,7 @@
 
 This directory contains fundamental machine learning implementations, focusing on core algorithms for regression, classification, and clustering.
 
-## Projects
+## Algorithms
 
 * **Linear Regression**: Implementation of predictive modeling using single and multiple features.
 * **Logistic Regression**: Application of the sigmoid function for binary classification tasks.
